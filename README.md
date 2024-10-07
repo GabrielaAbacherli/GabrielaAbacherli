@@ -1,1 +1,1 @@
-- 💞️ Hi, I’m ![Gabriela](gabi.gif)
+- 💞️ ![Gabriela](gabi.gif)
